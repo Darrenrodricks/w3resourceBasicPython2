@@ -1,5 +1,0 @@
-values=input("PLease enter some values: ")
-l=values.split(",")
-t=tuple(l)
-print("here are youur values in a list:".format(l))
-print("here are youur values in a list:".format(t))
